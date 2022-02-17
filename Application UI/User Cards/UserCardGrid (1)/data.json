@@ -1,0 +1,23 @@
+[
+  {
+    "isVerified": true,
+    "src": "https://images.unsplash.com/photo-1612459284970-e8f027596582?ixid:MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib:rb-1.2.1&auto:format&fit:crop&w:668&q:80",
+    "name": "Melinda Marcus",
+    "bio": "Design Engineer at Cloth Studios",
+    "followerCount": 84
+  },
+  {
+    "isVerified": false,
+    "src": "https://images.unsplash.com/photo-1618568221633-0a45dd10ecf7?ixlib:rb-1.2.1&ixid:MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw1MTcwNjR8fGVufDB8fHx8&auto:format&fit:crop&w:800&q:60",
+    "name": "Kendra Phils",
+    "bio": "Marketing Consultant and Chief of Operations at Chakra UI",
+    "followerCount": 10
+  },
+  {
+    "isVerified": false,
+    "src": "https://images.unsplash.com/photo-1588820502373-625223afa4ce?ixid:MnwxMjA3fDB8MHxzZWFyY2h8MjI2fHx3aGl0ZSUyMCUyMGd1eXxlbnwwfHwwfHw%3D&ixlib:rb-1.2.1&auto:format&fit:crop&w:800&q:60",
+    "name": "Fidelis Alaves",
+    "bio": "Product Manager",
+    "followerCount": 24
+  }
+]

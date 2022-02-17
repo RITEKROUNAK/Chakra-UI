@@ -1,0 +1,6 @@
+[
+  { "label": "Contact", "url": "/contact" },
+  { "label": "Delivery", "url": "/delivery" },
+  { "label": "Confirm", "url": "/confirm" },
+  { "label": "Completed", "url": "/complete" }
+]
